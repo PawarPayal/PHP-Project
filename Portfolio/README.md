@@ -1,6 +1,10 @@
 # Dynamic Portfolio With PHP and Bootstrap
 ## Project overview
-It's a fully dynamic personal portfolio website.I use raw php for this site . You can change every front end part in backend . I attached some screenshoots in below . Take a look and You will easily understand what things you can do with this website.
+o It's a fully dynamic personal portfolio website.  
+o I use raw php for this site .   
+o You can change every front end part in backend .   
+o I attached some screenshoots in below .   
+o Take a look and You will easily understand what things you can do with this website.  
 
 ## How to start--
 * download or clone this project
